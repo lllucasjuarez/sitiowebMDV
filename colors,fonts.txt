@@ -3,8 +3,7 @@ FONTS {
 }
 
 COLORS {
-    CELESTE: #76caff
-    ROSA: #f42394
-    NEGRO: #47484f
+    OSCURO: #003237
+    VERDE: #68e0af
     BLANCO: #fcfaf7
 }
