@@ -1,0 +1,159 @@
+.info {
+    background-color: #003237;
+    color: #fcfaf7;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    margin-right: 20px;
+}
+
+.info:hover {
+    color: #68e0af;
+    transition: 0.3s;
+}
+
+.barranavegacion {
+    background-color:#68e0af;
+    color: #003237;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    transition: 0.5s;
+
+}
+ .barranavegacion:hover{
+    color: #fcfaf7;
+    transition: 0.3s;
+
+ }
+
+ .hero {
+    background-image: url(/images/img1.jpg);
+    background-size:cover;
+    background-position-y: center ;
+    height: 400px;
+    color: #fcfaf7;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+ }
+
+
+
+#boton-contact{
+    
+    background-color: #003237;
+    color: #68e0af;
+    border-color: #68e0af;
+    font-weight: 600;
+}
+
+#boton-contact:hover{
+    color: #003237;
+    background-color: #68e0af;
+    border-color: #003237;
+    transition: 0.3s;
+    font-weight: 600;
+}
+
+.title-services{
+    color:#fcfaf7;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration:underline #68e0af 3px;
+    margin: 20px;
+}
+
+
+.p-section-1{
+    margin: 50px 50px;
+}
+
+.lista-style {
+    color: #fcfaf7;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    margin: 0 10px;
+}
+
+.item-lista:hover {
+    color: #68e0af;
+}
+
+.boton-presupuesto{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background-color: #003237;
+    border-color: #68e0af;
+    color: #68e0af;
+}
+
+.boton-presupuesto:hover {
+    background-color: #68e0af;
+    color: #003237;
+    border-color: #003237;
+    transition: 0.3s;
+}
+
+.saltodelinea {
+    color: #fcfaf7;
+}
+#link-lista{
+    color: #68e0af;
+}
+
+
+.formulario{
+    color: #68e0af;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin: 20px 0 40px;
+
+}
+
+.input-formulario {
+    color: #003237;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background-color: #fcfaf7;
+    resize: none;
+
+}
+
+.input-formulario-textarea{
+    height: 38px;
+}
+
+.boton-enviar {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background-color: #003237;
+    border-color: #68e0af;
+    color: #fcfaf7;
+
+}
+
+.boton-enviar:hover {
+    background-color: #68e0af;
+    color: #003237;
+    border-color: #003237;
+    transition: 0.3s; 
+}
+
+.link-footer{
+    color: #fcfaf7;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.link-footer:hover {
+    color: #68e0af;
+    transition: 0.3s;
+}

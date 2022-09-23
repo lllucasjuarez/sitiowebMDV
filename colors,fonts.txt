@@ -1,0 +1,10 @@
+FONTS {
+    font-family: 'Montserrat', sans-serif
+}
+
+COLORS {
+    CELESTE: #76caff
+    ROSA: #f42394
+    NEGRO: #47484f
+    BLANCO: #fcfaf7
+}
