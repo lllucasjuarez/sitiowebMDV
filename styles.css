@@ -4,12 +4,13 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 17px;
     font-weight: 600;
-    margin-right: 20px;
+    margin-top: 10px;
+    height: 50px;
 }
 
 .info:hover {
     color: #68e0af;
-    transition: 0.3s;
+    transition: 0.5s;
 }
 
 .barranavegacion {
@@ -30,7 +31,7 @@
     background-image: url(/images/img1.jpg);
     background-size:cover;
     background-position-y: center ;
-    height: 400px;
+    height: 600px;
     color: #fcfaf7;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
@@ -50,7 +51,8 @@
     color: #003237;
     background-color: #68e0af;
     border-color: #003237;
-    transition: 0.3s;
+    transition: 0.5s;
+    transform: scale(1.1);
     font-weight: 600;
 }
 
@@ -70,11 +72,13 @@
     color: #fcfaf7;
     font-family: 'Montserrat', sans-serif;
     padding: 10px;
-    margin: 0 10px;
+    margin: 0 20px;
 }
 
 .item-lista:hover {
     color: #68e0af;
+    transition: 0.3s;
+    transform: scale(1.1);
 }
 
 .boton-presupuesto{
@@ -93,7 +97,8 @@
     background-color: #68e0af;
     color: #003237;
     border-color: #003237;
-    transition: 0.3s;
+    transition: 1s;
+    transform: scale(1.1);
 }
 
 .saltodelinea {
@@ -134,7 +139,7 @@
     font-weight: 600;
     background-color: #003237;
     border-color: #68e0af;
-    color: #fcfaf7;
+    color: #68e0af;
 
 }
 
@@ -142,7 +147,8 @@
     background-color: #68e0af;
     color: #003237;
     border-color: #003237;
-    transition: 0.3s; 
+    transition: 0.5s;
+    transform: scale(1.1);
 }
 
 .link-footer{
@@ -155,5 +161,52 @@
 
 .link-footer:hover {
     color: #68e0af;
-    transition: 0.3s;
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+.section-sobrenosotros{
+    background-image: url(/images/img2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    height: 400px;
+}
+
+.title-section-sobre-nosotros{
+    color:#fcfaf7;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    text-decoration:underline #68e0af 3px;
+    margin: 80px 20px;
+
+}
+
+.p-section-sobre-nosotros {
+    color:#fcfaf7;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.testimonios {
+    color: #fcfaf7;
+    font-size: 30px;
+}
+
+.testimonios2 {
+    color: #68e0af;
+}
+
+.tramitesfrecuentes {
+    color: #fcfaf7;
+    font-family: 'Montserrat' , 'san-serif';
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.footer-fin{
+    padding: 50px;
+    background-color: #003237;
 }
